@@ -12,5 +12,4 @@ public class CalorieCountApplication {
     public static void main(String[] args) {
         SpringApplication.run(CalorieCountApplication.class, args);
     }
-    //rjl dhgsd jdvhk
 }
