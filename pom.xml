@@ -8,10 +8,10 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.manko</groupId>
+	<groupId>com.nst</groupId>
 	<artifactId>calorie-count</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>phone-code</name>
+	<name>calorie-count</name>
 	<description>Demo project for Spring Boot</description>
 	<dependencies>
 		<dependency>
