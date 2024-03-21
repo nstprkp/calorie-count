@@ -1,6 +1,5 @@
 package com.nst.food.controller;
 
-import com.nst.food.model.Food;
 import com.nst.food.model.dto.FoodDto;
 import com.nst.food.service.FoodService;
 
