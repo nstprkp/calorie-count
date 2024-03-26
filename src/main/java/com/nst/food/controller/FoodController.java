@@ -3,7 +3,6 @@ package com.nst.food.controller;
 import com.nst.food.model.dto.FoodDto;
 import com.nst.food.service.FoodService;
 
-import jakarta.validation.Valid;
 import jakarta.validation.constraints.PositiveOrZero;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
